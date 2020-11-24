@@ -10,8 +10,9 @@ if c.lower() == 'q'
 ```
 
 Penggunaan while True while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul eror *Penggunaan else Fungsi else ialah jika tidak eror dan type yang dimasukan sesuai maka proses while True Pengunaan valueError Fungsinya apabila diinputkan bukan berupa type maka hasilnya error (valueError) berikut source codenya: <br>
+
 ```
-  while (True):
+   while (True):
                         nama = input(" Nama : ")
                         if nama == '':
                             P(' Masukan dengan Nama Dengan Benar')
